@@ -76,3 +76,4 @@ crashlytics-build.properties
 
 # Aseprite files
 *.ase
+*.aseprite
